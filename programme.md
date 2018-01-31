@@ -33,11 +33,11 @@
   
  # Frais
  
- Café marché : 17
- Contresecarpe : 23.30
- Mel & Mich : 34.70
- Caméléon : 27.80
- Mosquée : 103.5
+ - Café marché : 17
+ - Contresecarpe : 23.30
+ - Mel & Mich : 34.70
+ - Caméléon : 27.80
+ - Mosquée : 103.5
  
  => 206.30
  
