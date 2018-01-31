@@ -30,3 +30,14 @@
 - Repas => 
   - Trop de bruit => on switche => http://www.lerestoparis.fr - 8 Rue Tournefort, 75005 Paris, France
   - Trop long => On fait gaffe
+  
+ # Frais
+ 
+ Café marché : 17
+ Contresecarpe : 23.30
+ Mel & Mich : 34.70
+ Caméléon : 27.80
+ Mosquée : 103.5
+ 
+ => 206.30
+ 
